@@ -4,7 +4,7 @@ This project focuses on **abstractive text summarization** using **BART (Bidirec
 
 ## Project Details  
 - **Company:** CODETECH IT SOLUTIONS  
-- **Intern Name:** Harikrishna Pillai  
+- **Intern Name:** Aalay Kabariya 
 - **Intern ID:** C0DF49  
 - **Domain:** Artificial Intelligence  
 - **Duration:** 4 Weeks  
