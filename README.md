@@ -52,11 +52,7 @@ This project focuses on **abstractive text summarization** using **BART (Bidirec
 - Computed **ROUGE scores** on test set to validate model accuracy.  
 
 ## Output  
-### Sample Input  
-🖼 _Original Document_  
-
-### Generated Summary  
-🖼 _Summarized Text_  
+![Image](https://github.com/user-attachments/assets/8c08f30f-a91a-42f4-a4af-65e52a3c723a)
 
 ## Installation  
 ```bash
